@@ -8,19 +8,21 @@ Move Pacman with the arrow keys, and collect all the orbs. Each orb collected ad
 
 Programmed and executed in Eclipse C++ IDE. Using freeglut as the OpenGL GLUT library. Made in April 2020.
 
-To run (For Eclipse C++ IDE with freeglut only):
+#### To run (For Eclipse C++ IDE with freeglut only):
 ```
 Build pacman.c
 In Binaries Right click the exe file and Run As Local C++ Application
 ```
 
-Alternatively:
+### Alternatively:
 ```
 Move regions.txt in Debug folder
 Execute the PacmanProject.exe
 ```
 
-Tutorial to setup Freeglut and OpenGL in Ubuntu:
+#### Tutorial to setup Freeglut and OpenGL in Ubuntu:
 https://www.youtube.com/watch?v=899TtkrreRA
 
 Screenshots:
+
+![Pacman-game](/Screenshot.png?raw=true)
