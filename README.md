@@ -23,6 +23,6 @@ Execute the PacmanProject.exe
 #### Tutorial to setup Freeglut and OpenGL in Ubuntu:
 https://www.youtube.com/watch?v=899TtkrreRA
 
-####Screenshots:
+#### Screenshots:
 
 ![Pacman-game](/Screenshot.png?raw=true)
