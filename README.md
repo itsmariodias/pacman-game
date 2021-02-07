@@ -1,4 +1,4 @@
-# pacman-game
+# Pacman Game
 A simple OpenGL Pacman game
 
 A simple implementation of the Pacman game in OpenGL.
